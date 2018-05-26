@@ -1,1 +1,1 @@
-# barkzuckerberg.github.io
+Ever wished you could replace all occurrences of Mark Zuckerberg's name with "Bark Zuckerberg"? Well now [you can](https://chrome.google.com/webstore/detail/mark2bark/lddegmgedikbficleenopkbcmfeekdjc/related)!
